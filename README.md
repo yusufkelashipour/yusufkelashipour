@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello👋, I'm Yusuf Kelashipour! I'm a 3rd-year Computer Science student at Wilfrid Laurier University with a strong interest in full-stack web development and data science. 🚀 I'm always eager to learn and improve every day!
+Hello👋, I'm Yusuf Kelashipour! I'm a 4th-year Computer Science student at Wilfrid Laurier University with a strong interest in full-stack web development and data science. 🚀 I'm always eager to learn and improve every day!
 
 
 
